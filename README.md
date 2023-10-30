@@ -13,3 +13,7 @@ This is a simple VAT (Value Added Tax) calculator written in Java. It allows use
 ## Usage
 
 You can run this Java program on your local machine using any Java IDE or by compiling and executing the source code.
+
+## Important Notice
+
+This is a very early Aplha release, so bug may occur. This program will be improved.
